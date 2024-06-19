@@ -11,12 +11,12 @@
 ## State Diagram
 * In a Mealy machine, the output depends on both the current state and the current inputs.
 * A general model of a Mealy sequential machine consists of a combinatorial network, which generates the outputs and the next state, and a state register which holds the current state.
+* The state register is normally modeled as D flip-flops.
+* The other block(s) can be modeled either using the always procedural block or a mixture of the always procedural block and dataflow modeling statements.
 ![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Mealy/blob/main/three%20blocks%20Mealy%20machine.png)
 
 <!-- Schmatic -->
 ## Schmatic
-* The state register is normally modeled as D flip-flops.
-* The other block(s) can be modeled either using the always procedural block or a mixture of the always procedural block and dataflow modeling statements.
 ![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Mealy/blob/main/Schmatic.png)
 
 <!-- Simulation -->
