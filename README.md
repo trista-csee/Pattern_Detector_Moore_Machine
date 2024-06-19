@@ -21,7 +21,7 @@
 
 <!-- Simulation -->
 ## Simulation
-![image]()
+![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Mealy/blob/main/Simulation.png)
 
 <!-- LICENSE -->
 ## License
