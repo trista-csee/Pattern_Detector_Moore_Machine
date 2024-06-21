@@ -4,24 +4,26 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT Name -->
-<h1 align="center">Design a sequence/pattern detector Mealy machine</h1>
+<!-- PROJECT Name --> 
+<h1 align="center">Design a pattern detector Moore machine</h1>
 
 <!--  State Diagram -->
 ## State Diagram
-* In a Mealy machine, the output depends on both the current state and the current inputs.
-* A general model of a Mealy sequential machine consists of a combinatorial network, which generates the outputs and the next state, and a state register which holds the current state.
-* The state register is normally modeled as D flip-flops.
-* The other block(s) can be modeled either using the always procedural block or a mixture of the always procedural block and dataflow modeling statements.
-![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Mealy/blob/main/three%20blocks%20Mealy%20machine.png)
+* In Moore machine, the output depends only on the current state.
+* A general model of a Moore machine is shown below. Its output is generated from the state register block.
+* The next state is determined using the current input and the current state.
+* The state register is also modeled using D flip-flops.
+* Normally Moore machines are described using three blocks, one of which must be a sequential and the other two can be modeled using always blocks or a combination of always and dataflow modeling constructs. 
+
+![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Moore_Machine/blob/main/three%20blocks%20Moore%20machine.png)
 
 <!-- Schmatic -->
 ## Schmatic
-![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Mealy/blob/main/Schmatic.png)
+![image]()
 
 <!-- Simulation -->
 ## Simulation
-![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Mealy/blob/main/Simulation.png)
+![image]()
 
 <!-- LICENSE -->
 ## License
@@ -36,7 +38,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 吳華楨 Trista Wu - trista.cs11@nycu.edu.tw
 
-Project Link: [https://github.com/trista-csee/Sequence-Pattern_Detector_Mealy](https://github.com/trista-csee/Sequence-Pattern_Detector_Mealy)
+Project Link: []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
