@@ -19,11 +19,11 @@
 
 <!-- Schmatic -->
 ## Schmatic
-![image]()
+![image](https://github.com/trista-csee/Pattern_Detector_Moore_Machine/blob/main/Schmatic.png)
 
 <!-- Simulation -->
 ## Simulation
-![image]()
+![image](https://github.com/trista-csee/Pattern_Detector_Moore_Machine/blob/main/Simulation.png)
 
 <!-- LICENSE -->
 ## License
@@ -38,7 +38,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 吳華楨 Trista Wu - trista.cs11@nycu.edu.tw
 
-Project Link: []()
+Project Link: [https://github.com/trista-csee/Pattern_Detector_Moore_Machine](https://github.com/trista-csee/Pattern_Detector_Moore_Machine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
