@@ -17,8 +17,8 @@
 
 ![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Moore_Machine/blob/main/three%20blocks%20Moore%20machine.png)
 
-<!-- Schmatic -->
-## Schmatic
+<!-- Schematic -->
+## Schematic
 ![image](https://github.com/trista-csee/Pattern_Detector_Moore_Machine/blob/main/Schmatic.png)
 
 <!-- Simulation -->
